@@ -11,8 +11,4 @@ function Home() {
   );
 }
 
-function atumalaca() {
-  console.log("auorba");
-}
-
 export default Home;
